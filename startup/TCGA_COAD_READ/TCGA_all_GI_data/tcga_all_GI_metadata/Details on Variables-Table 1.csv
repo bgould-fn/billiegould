@@ -1,0 +1,125 @@
+Table S1. Related to Figure 1. Summary table of tumor sample characteristics. ,,,,
+Variable Name / Column Header,Description,,,
+TCGA Participant Barcode,TCGA participant barcode,,,
+TCGA Project Code,TCGA four-letter project code,,,
+Organ,Organ name,,,
+Pathologic T,Pathologic stage T,,,
+Pathologic N,Pathologic stage N,,,
+Pathologic M,Pathologic stage M,,,
+Pathologic Stage,Pathologic stage,,,
+Country,Country,,,
+Gender,Gender,,,
+Age at initial pathologic diagnosis,Age at initial pathologic diagnosis,,,
+Days to last known alive,Days to last known date when the patient was alive,,,
+Vital status,Vital status,,,
+Detailed Anatomic Site,"Detailed Anatomic Site. For references purposes. In the manuscript, the values in the column ""Anatomic Region"" are used. Takes the values: Ascending_Colon
+Cecum
+Descending_Colon
+Distal_Esophagus
+Esophageal_GE_Junction
+Gastric_Antrum_and_Pylorus
+Gastric_Fundus_and_Body
+Gastric_GE_Junction
+Hepatic_Flexure
+Indeterminate_GE_Junction
+Mid-distal_Esophagus
+Mid_Esophagus
+NA
+Rectosigmoid_Junction
+Rectum
+Sigmoid_Colon
+Splenic_Flexure
+Transverse_Colon",,,
+MSI Status,MSI Status,,,
+Race,Race,,,
+Geographic Region,"Geographic Region,with values East_Asia
+Eastern_Europe
+Geographic_Region
+NA
+The_Americas
+Western_Europe",,,
+Leukocyte Fraction,Leukocyte fraction based on DNA methylation array,,,
+CDKN2A methylation,CDKN2A_methylation,,,
+MLH1 methylation,MLH1_methylation,,,
+BRCA1 epigenetic silencing,BRCA1_epigenetic_silencing,,,
+RAD51C_epigenetic_silencing,RAD51C_epigenetic_silencing,,,
+T cells CD8,"Estimate of T cells CD8 fraction, relative to other immune cells, based on CIBERSORT",,,
+NK cells resting,"NK cells resting, relative to other immune cells, based on CIBERSORT",,,
+Macrophages M1,"Macrophages M1, relative to other immune cells, based on CIBERSORT",,,
+Stemness RNA based,"Stemness RNA based score from (Malta et al., 2018)",,,
+Stemness DNAmeth based,"Stemness DNA methylation based score from (Malta et al., 2018)",,,
+Colorectal CMS,"The consensus molecular subtypes of colorectal cancer from (Guinney et al., 2015)",,,
+Interferon Gamma Response - C1 Hallmark,Interferon Gamma Response - C1 Hallmark from MSigDB scored by single sample Gene Set Enrichment Analysis (ssGSEA),,,
+Wnt Beta Catening Signaling - C1 Hallmark,Wnt Beta Catening Signaling - C1 Hallmark from MSigDB scored by single sample Gene Set Enrichment Analysis (ssGSEA),,,
+Anatomic Region,"Anatomic subsites along the gastrointestinal tract. See e.g. Figure 6B. Values:Ascending_Colon
+Descending_Colon
+Esophagus (Tubular Esophagus)
+Gastric_Antrum_and_Pylorus
+Gastric_Fundus_and_Body
+Gastroesophageal_Junction
+NA (values not assigned)
+Proximal_Stomach
+Rectum
+Transverse_Colon",,,
+Left or right colon,Left or right colon,,,
+Stage,"Stage I, II, III, IV, or NA (missing)",,,
+Hypermethylation category,"Promoter hypermethylation categories defined for GIAC. Takes values CIMP EBV
+CIMP-H
+CRC CIMP-L
+GEA CIMP-L
+Non-CIMP",,,
+Gastric histological classification,Lauren classification of gastric cancers,,,
+SNP Array TCGA Aliquot ID,TCGA sample ID of SNP array,,,
+Exome TCGA Aliquot ID,TCGA sample ID of exome sequencing,,,
+RNASeq TCGA Aliquot ID,TCGA sample ID of RNA sequencing,,,
+Matched Normal Tissue Type,"The type of matched normal tissue, either Blood or Tissue",,,
+ABSOLUTE Purity,Purity calculated via ABSOLUTE,,,
+ABSOLUTE Ploidy,Ploidy calculated via ABSOLUTE,,,
+WGD,Whole-genome doubling status. 0: no-WGD. 1: one-time WGD. 2: more than one WGD,,,
+Tumor cell DNA fraction,Fraction of tumor cell DNA in total DNA,,,
+Fraction of genome with duplicated alleles,"The metric to determine WGD. A value that is lower than 0.5 corresponds to non-WGD, and higher corresponds to at least one WGD.",,,
+CDS,Clonal Deletion Score,,,
+Fraction of genome with subclonal SCNAs,Fraction of genome with subclonal SCNAs,,,
+CIN GS binary classification,CIN/GS binary classification,,,
+N_homozygous_deletions,Number of homozygous deletions,,,
+N_arm_level,Number of arm-level events,,,
+N_focal_amp,Number of focal amplification copy number events,,,
+N_focal_del,Number of focal deletion copy number events,,,
+N_focal,Number of focal copy number events including amplification and deletion,,,
+N_focal_amp_high,Number of high-level focal amplification events (amplitude > 1),,,
+N_focal_del_deep,Number of deep-level focal deletion events (amplitude < -1),,,
+Score_CIN_F,The CIN-F score,,,
+CIN_F_B_classification,CIN-F/B classification,,,
+N_most_focal_very_high_amp,Number of most focal (<3 Megabase) and very high-level (amplitude > 2) amplification events,,,
+Molecular_Subtype,The major molecular subtypes defined accross GIAC,,,
+MS_stage1_CpGtoT,Stage 1 mutational signature intensity of the CpG>T signature,,,
+MS_stage1_MSI_1,Stage 1 mutational signature intensity of the MSI signature type 1,,,
+MS_stage1_MSI_2,Stage 1 mutational signature intensity of the MSI signature type 2,,,
+MS_stage1_POLE_1,Stage 1 mutational signature intensity of the POLE signature type 1,,,
+MS_stage1_POLE_2,Stage 1 mutational signature intensity of the POLE signature type 2,,,
+MS_stage1_AAtoAC,Stage 1 mutational signature intensity of the AA>AC signature,,,
+MS_stage1_residual,Stage 1 mutational signature intensity of the residual mutations,,,
+MS_frac_stage1_CpGtoT,Stage 1 mutational signature fraction of the CpG>T signature,,,
+MS_frac_stage1_MSI_1,Stage 1 mutational signature fraction of the MSI signature type 1,,,
+MS_frac_stage1_MSI_2,Stage 1 mutational signature fraction of the MSI signature type 2,,,
+MS_frac_stage1_POLE_1,Stage 1 mutational signature fraction of the POLE signature type 1,,,
+MS_frac_stage1_POLE_2,Stage 1 mutational signature fraction of the POLE signature type 2,,,
+MS_frac_stage1_AAtoAC,Stage 1 mutational signature fraction of the AA>AC signature,,,
+MS_frac_stage1_residual,Stage 1 mutational signature fraction of the residual mutations,,,
+MS_stage2_BRCA,Stage 2 mutational signature intensity of the BRCA signature,,,
+MS_stage2_APOBEC_1,Stage 2 mutational signature intensity of the APOBEC signature type 1,,,
+MS_stage2_APOBEC_2,Stage 2 mutational signature intensity of the APOBEC signature type 2,,,
+MS_stage2_AAtoAC,Stage 2 mutational signature intensity of the AA>AC signature,,,
+MS_stage2_CpGtoT,Stage 2 mutational signature intensity of the CpG>T signature,,,
+MS_frac_stage2_BRCA,Stage 2 mutational signature fraction of the BRCA signature,,,
+MS_frac_stage2_APOBEC_1,Stage 2 mutational signature fraction of the APOBEC signature type 1,,,
+MS_frac_stage2_APOBEC_2,Stage 2 mutational signature fraction of the APOBEC signature type 2,,,
+MS_frac_stage2_AAtoAC,Stage 2 mutational signature fraction of the AA>AC signature,,,
+MS_frac_stage2_CpGtoT,Stage 2 mutational signature fraction of the CpG>T signature,,,
+n_silent,Number of silent mutations,,,
+n_nonsilent,Number of non-silent mutations,,,
+n_indel,Number of indels,,,
+SNV Mutation Density,Mutation density of SNVs (# per megabase),,,
+Indel Mutation Density,Mutation density of indels (# per megabase),,,
+Mutation Density,Total mutation density (# per megabase),,,
+Hypermutated,"Indicator for hypermutation. 1: hypermutated, 0: otherwise",,,

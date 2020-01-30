@@ -1,0 +1,23 @@
+This data archive contains the Cancer Genome Atlas (TCGA) analysis of DNA methylation profiling using the IIllumina Infinium HumanMethylation450 platform. The Infinium platform analyzes up to 482,421 CpG dinucleotides and 3091 CpH dinucleotides, spanning gene-associated elements as well as intergenic regions. DNA samples were received, bisulfite converted and cytosine methylation was evaluated using IIllumina Infinium HumanMethylation450 microarrays.
+
+This archive contains Infinium DNA methylation data for CESC samples.
+
+The files contained in each data level package are as follows:
+
+AUX: Auxilary directory with .csv mappings, .sdf files, and processing logs.
+
+LEVEL 1: Level 1 data contain raw IDAT files (two per sample) as produced by the iScan system and as mapped by the SDRF and also in the disease mapping file. These files can be directly processed by the `methylumi` or `minfi` R packages; a comma-separated value (CSV) file in the AUX archive is provided to ease this.
+
+LEVEL 2: Level 2 data contain background-corrected methylated (M) and unmethylated (U) summary intensities as extracted by the methylumi package.  Non-detection probabilities (P-values) were computed as the minimum of the two values (one per allele) for the empirical cumulative density function of the negative control probes in the appropriate color channel.  Background correction is performed via normal-exponential deconvolution (currently NOT stratified by probe sequence). Multiple-batch archives have the intensities in each of the two channels multiplicatively scaled to match a reference sample (sample with R/G ratio closest to 1.0.)
+
+LEVEL 3: Derived summary measures (beta values: M/(M+U) for each interrogated locus) with annotations for gene symbol, chromosome (UCSC hg19, Feb 2009), and CpG/CpH coordinate (UCSC hg19, Feb 2009). Probes having a common SNP (common SNP is a SNP with Minor Allele Frequency > 1% as defined by the UCSC snp135common track) within 10bp of the interrogated CpG site or having 15bp from the interrogated CpG site overlap with a REPEAT element (as defined by RepeatMasker and Tandem Repeat Finder Masks based on UCSC hg19, Feb 2009) are masked as NA across all samples, and probes with a non-detection probability (P-value) greater than 0.05 in a given sample are masked as NA on that chip. Probes that are mapped to multiple sites on hg19 are annotated as NA for chromosome and 0 for CpG/CpH coordinate
+
+This archive was created using R (http://www.R-project.org). The package 'EGC.tools' was used to package the data and is available on GitHub (http://github.com/uscepigenomecenter). Information regarding the version of R and the packages that were used to create this package is included below. All of the packages are available from either Bioconductor (http://www.bioconductor.org) or CRAN (http://cran.r-project.org)
+
+R version 3.1.0 (2014-04-10)
+
+Platform-x86_64-unknown-linux-gnu (64-bit)
+
+Base R Packages : parallel, stats, graphics, grDevices, utils, datasets, methods, base
+
+Attached R Packages : IlluminaHumanMethylation450k.db-2.0.7, org.Hs.eg.db-2.14.0, RSQLite-0.11.4, DBI-0.2-7, MASS-7.3-33, EGC.tools-1.4.11, methylumi-2.10.0, minfi-1.10.2, bumphunter-1.4.2, locfit-1.5-9.1, iterators-1.0.7, foreach-1.4.2, lattice-0.20-29, matrixStats-0.10.0, ggplot2-1.0.0, reshape2-1.4, scales-0.2.4, FDb.InfiniumMethylation.hg19-2.0.10, BSgenome.Hsapiens.UCSC.hg19-1.3.1000, BSgenome-1.32.0, Biostrings-2.32.1, XVector-0.4.0, GenomicFeatures-1.16.2, AnnotationDbi-1.26.0, Biobase-2.24.0, GenomicRanges-1.16.3, GenomeInfoDb-1.0.2, IRanges-1.22.9, BiocGenerics-0.10.0

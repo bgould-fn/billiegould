@@ -1,0 +1,4 @@
+startup/TCGA_COAD_READ/jhu-usc.edu_LUAD.HumanMethylation450.1.lvl-3.TCGA-44-2655-11A-01D-1551-05.gdc_hg38.txt
+startup/CIMP/jhu-usc.edu_COAD.HumanMethylation27.1.lvl-3.TCGA-AA-3534-11A-01D-1552-05.gdc_hg38.txt
+startup/TCGA_COAD_READ/df_tcga_16k_v1_probes_crc.csv
+startup/TCGA_COAD_READ/df_coad_read_raw_beta_vals.pkl
