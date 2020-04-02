@@ -1,0 +1,253 @@
+assay,lims_batch,sample_id,patient_id,blood_draw_relative_to_tx,cancer_type,Study,Analysis_Batch,passed_latest_qc,tissue_disposition,olink_dsid,path_type,path_sub_type
+targeted-panel,DC2_BG1_Olink_1,22808,24564,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-000092B8,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_1,23394,25603,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-000092E1,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_1,21163,24435,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-000092A4,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_1,20983,24445,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,Biopsied,SD-000092C4,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_1,21655,24705,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,Completely Resected,SD-000092B7,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_1,22421,24961,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-000092CD,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_1,22659,25168,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-00009295,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_1,23062,25564,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-000092BE,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_1,22254,25125,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-000092AE,AA,AA2.1
+targeted-panel,DC2_BG1_Olink_2,21105,24668,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-00009301,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_2,21157,24659,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-00009334,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_2,22398,24068,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-00009331,AA,AA2.4
+targeted-panel,DC2_BG1_Olink_2,22764,25175,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-0000930D,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_2,22842,25061,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-000092F4,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_2,22867,25112,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-0000933A,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_2,22890,25299,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-000092FD,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_2,22333,24925,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-0000931B,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_2,22690,25161,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-0000932D,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_3,23422,25915,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-00009344,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_3,22669,25100,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,Completely Resected,SD-00009361,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_3,20568,24287,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-0000934A,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_3,20978,24606,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-0000937D,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_3,23556,25880,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-00009383,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_3,22912,25248,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-0000935C,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_3,24121,26314,Post-Colonoscopy,Unclassifiable,DC2 BG1,unknown,True,Completely Resected,SD-00009390,unknown,unknown
+targeted-panel,DC2_BG1_Olink_3,24067,26255,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-00009364,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_4,22966,24955,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-000093D1,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_4,23098,25254,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-000093B5,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_4,22430,25180,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-000093E0,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_4,21249,25012,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Biopsied,SD-000093DE,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_4,23513,25963,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-000093C9,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_4,21102,24585,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-000093B1,AA,AA2.1
+targeted-panel,DC2_BG1_Olink_4,23559,25975,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-000093C0,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_4,23857,25912,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-000093C8,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_4,22302,24461,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,Completely Resected,SD-000093A8,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_5,22688,24909,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-000093F4,AA,AA2.4
+targeted-panel,DC2_BG1_Olink_5,21106,24923,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-00009441,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_5,22418,24924,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-0000940C,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_5,24033,26272,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-0000941B,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_5,22219,24422,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,Completely Resected,SD-0000942D,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_5,23197,25638,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-00009430,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_5,22958,24956,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-000093F6,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_5,23205,25807,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-000093FE,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_6,24487,26289,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-00009484,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_6,23246,25683,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,unknown,SD-00009455,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_6,27985,26429,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-00009456,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_6,20586,24388,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-00009464,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_6,23215,25789,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-00009488,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_6,23572,25974,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-00009465,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_6,21165,24921,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Biopsied,SD-00009476,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_6,21134,24669,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-0000949A,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_6,23499,25846,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-00009480,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_7,22911,25146,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-000094EC,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_7,24013,26254,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-000094C5,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_7,20660,24468,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-000094F2,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_7,23054,25245,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-000094D8,NAA,NAA3.1
+targeted-panel,DC2_BG1_Olink_7,22897,24995,Post-Colonoscopy,Unclassifiable,DC2 BG1,unknown,True,unknown,SD-000094D2,unknown,unknown
+targeted-panel,DC2_BG1_Olink_7,20964,24608,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-000094AF,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_7,20899,24045,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-000094C9,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_7,23169,25722,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,Completely Resected,SD-000094A1,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_7,23387,25685,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,unknown,SD-000094AE,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_8,27629,26471,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-00009513,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_8,24486,26410,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-0000950C,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_8,23388,25737,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-0000954F,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_8,24480,26366,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-000094FC,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_8,22342,24582,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-0000952B,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_8,23581,25567,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,unknown,SD-0000950A,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_8,22086,24481,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-0000954C,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_8,21236,24919,Post-Colonoscopy,Unclassifiable,DC2 BG1,unknown,True,Biopsied,SD-0000954B,unknown,unknown
+targeted-panel,DC2_BG1_Olink_8,22670,25145,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-0000953F,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_9,20990,24580,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-00009561,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_9,23756,25970,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,unknown,SD-000095A5,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_9,23401,24957,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-0000956E,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_9,23500,25869,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,unknown,SD-0000957D,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_9,24008,26275,Post-Colonoscopy,Colorectal Benign,DC2 BG1,unknown,True,Completely Resected,SD-00009551,NAA,NAA3.1
+targeted-panel,DC2_BG1_Olink_9,21144,24922,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,unknown,SD-00009593,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_9,23007,25642,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,unknown,True,Completely Resected,SD-0000958E,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_9,22834,25487,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,unknown,True,Completely Resected,SD-00009562,Negative by histopathology,unknown
+targeted-panel,DC2_BG2_Olink_1,28864,26521,Post-Colonoscopy,Colorectal Benign,DC2 BG2,unknown,True,Completely Resected,SD-0000961C,NAA,unknown
+targeted-panel,DC2_BG2_Olink_1,30719,26540,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-000095F7,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_1,27630,26424,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,unknown,True,unknown,SD-0000960A,AA,AA2.4
+targeted-panel,DC2_BG2_Olink_1,22837,25347,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-0000961B,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_1,22941,25251,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-000095ED,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_1,29282,26390,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-0000960B,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,22833,25385,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,unknown,True,Completely Resected,SD-00009719,AA,AA2.4
+targeted-panel,DC2_BG2_Olink_1,23958,25907,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-00009627,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,24064,26277,Post-Colonoscopy,Colorectal Benign,DC2 BG2,unknown,True,Completely Resected,SD-00009720,NAA,unknown
+targeted-panel,DC2_BG2_Olink_1,20832,24440,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-00009612,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_1,29270,26546,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-00009611,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_2,31070,26825,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-00009648,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_2,21660,24393,Post-Colonoscopy,Colorectal Benign,DC2 BG2,unknown,True,Completely Resected,SD-00009668,NAA,unknown
+targeted-panel,DC2_BG2_Olink_2,30426,26563,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-00009653,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_2,23106,25485,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,unknown,True,Completely Resected,SD-00009632,AA,AA2.3
+targeted-panel,DC2_BG2_Olink_5,23600,25717,Post-Colonoscopy,Colorectal Benign,DC2 BG2,unknown,True,unknown,SD-0000974F,NAA,unknown
+targeted-panel,DC2_BG2_Olink_2,24069,26047,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-00009673,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_2,27977,26469,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-00009652,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_2,24474,26288,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,unknown,True,Completely Resected,SD-0000964D,AA,AA2.3
+targeted-panel,DC2_BG2_Olink_3,36931,26833,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-0000967C,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,22904,25258,Post-Colonoscopy,Colorectal Benign,DC2 BG2,unknown,True,Completely Resected,SD-00009717,NAA,unknown
+targeted-panel,DC2_BG2_Olink_3,36930,26864,Post-Colonoscopy,Colorectal Benign,DC2 BG2,unknown,True,unknown,SD-000096A9,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_3,26380,26432,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-0000967F,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,29895,26525,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-00009677,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,30319,26561,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,unknown,True,unknown,SD-0000968E,AA,unknown
+targeted-panel,DC2_BG2_Olink_4,20920,24599,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-000096CF,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_4,29303,26566,Post-Colonoscopy,Colorectal Benign,DC2 BG2,unknown,True,unknown,SD-00009708,NAA,NAA3.1
+targeted-panel,DC2_BG2_Olink_4,23565,25916,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-000096E6,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_4,28871,26528,Post-Colonoscopy,Colorectal Benign,DC2 BG2,unknown,True,Completely Resected,SD-000096C9,NAA,unknown
+targeted-panel,DC2_BG2_Olink_4,23129,25562,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,unknown,True,unknown,SD-000096D2,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_4,24001,26162,Post-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,unknown,True,unknown,SD-000096C6,AA,AA2.2
+targeted-panel,DC2_BG2_Olink_2,20385,24066,Post-Colonoscopy,Colorectal Benign,DC2 BG2,NA,True,Completely Resected,SD-0000964A,NAA,NAA3.2
+targeted-panel,DC2_BG2_Olink_2,21180,23788,Post-Colonoscopy,Colorectal Benign,DC2 BG2,NA,True,Completely Resected,SD-00009670,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_4,20013,24078,Post-Colonoscopy,Unclassifiable,DC2 BG2,NA,True,Completely Resected,SD-000096D0,unknown,unknown
+targeted-panel,DC2_BG2_Olink_4,20217,22302,Post-Colonoscopy,Colorectal Benign,DC2 BG2,NA,True,Completely Resected,SD-000096DC,NAA,NAA3.2
+targeted-panel,Discovery1_Olink_Plate1,19460,23656,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003970,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate2,19351,23791,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003AF4,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate9,19802,24078,Pre-Colonoscopy,Unclassifiable,DC1,DC1,unknown,pre-colo,SD-00003993,unknown,AA2.3
+targeted-panel,Discovery1_Olink_Plate2,19777,24066,Pre-Colonoscopy,Colorectal Benign,DC1,DC1,unknown,pre-colo,SD-0000395E,NAA,NAA3.2
+targeted-panel,Discovery1_Olink_Plate2,19747,23756,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003A83,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate3,18389,22340,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-0000385D,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate3,19222,23679,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003947,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate3,19347,23788,Pre-Colonoscopy,Colorectal Benign,DC1,DC1,unknown,pre-colo,SD-00003A8D,NAA,NAA3.3
+targeted-panel,Discovery1_Olink_Plate9,18937,23437,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003B42,Negative by histopathology,unknown
+targeted-panel,Discovery1_Olink_Plate4,19053,23539,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-0000390C,Negative by histopathology,unknown
+targeted-panel,Discovery1_Olink_Plate4,18309,22302,Pre-Colonoscopy,Colorectal Benign,DC1,DC1,unknown,pre-colo,SD-0000399E,NAA,NAA3.2
+targeted-panel,Discovery1_Olink_Plate4,20234,24384,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003A21,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate4,18302,21730,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-000039BB,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate5,19799,24077,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-0000389E,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate5,19744,23753,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003978,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate6,19783,24067,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003B0E,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,Discovery1_Olink_Plate7,18431,22362,Pre-Colonoscopy,Colorectal Normal / Healthy,DC1,DC1,unknown,pre-colo,SD-00003945,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_2,21181,24067,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-00009657,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,20684,23539,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,Completely Resected,SD-00009753,Negative by histopathology,unknown
+targeted-panel,DC2_BG2_Olink_2,20569,22362,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-00009635,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,20591,23437,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,Completely Resected,SD-00009690,Negative by histopathology,unknown
+targeted-panel,DC2_BG2_Olink_3,20389,24384,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-000096AA,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,20125,23753,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-0000969A,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,20590,21730,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-00009686,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,19723,23756,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-000096A5,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,21104,23679,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-00009710,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,20357,23791,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-00009685,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_4,20580,24077,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-000096DA,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_4,20414,22340,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-000096CB,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_4,20323,23656,Post-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,PON,True,unknown,SD-000096F7,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_4,20691,24585,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-000093B0,AA,AA2.1
+targeted-panel,DC2_BG1_Olink_4,23379,25975,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-00009399,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_4,21654,25180,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,beta,True,pre-colo,SD-000093E6,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_4,23244,25963,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-000093E9,NAA,NAA3.1
+targeted-panel,DC2_BG1_Olink_4,20955,24955,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-000093EE,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_4,20947,25012,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-000093ED,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_4,23210,25912,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-000093CE,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_4,20421,24461,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,beta,True,pre-colo,SD-0000939B,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_4,22238,25254,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,beta,True,pre-colo,SD-000093B7,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_5,20367,24422,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,beta,True,pre-colo,SD-00009439,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_5,23027,25807,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-0000940D,NAA,AA2.3
+targeted-panel,DC2_BG1_Olink_5,23915,26272,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,beta,True,pre-colo,SD-00009407,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_5,20980,24956,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-0000940F,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_5,22783,25638,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-00009435,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_5,21155,24909,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-00009409,AA,AA2.4
+targeted-panel,DC2_BG1_Olink_5,21117,24923,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-00009426,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_5,21166,24924,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-000093F8,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_6,20852,24669,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-00009493,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_6,20244,24388,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,beta,True,pre-colo,SD-0000945E,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_6,23091,25846,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-0000947E,NAA,AA2.3
+targeted-panel,DC2_BG1_Olink_6,23370,25974,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-0000945F,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_6,24170,26429,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,beta,True,pre-colo,SD-00009471,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_6,22820,25683,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-0000944C,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_6,22998,25789,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,beta,True,pre-colo,SD-00009487,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_6,23939,26289,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,beta,True,pre-colo,SD-0000947F,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_6,20994,24921,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,beta,True,pre-colo,SD-0000948F,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_1,20926,24961,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-000092DA,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_1,22748,25603,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,alpha,True,pre-colo,SD-000092C5,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_1,20413,24445,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,alpha,True,pre-colo,SD-000092D0,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_1,20880,24705,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,alpha,True,pre-colo,SD-000092B3,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_1,20654,24564,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,alpha,True,pre-colo,SD-0000929A,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_1,21242,25125,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,alpha,True,pre-colo,SD-000092B9,AA,AA2.1
+targeted-panel,DC2_BG1_Olink_1,22706,25564,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-000092BC,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_1,20392,24435,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,alpha,True,pre-colo,SD-000092AD,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_1,21651,25168,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-000092BB,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_2,20851,24668,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,alpha,True,pre-colo,SD-000092EA,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_2,21885,25175,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-000092F2,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_2,20844,24659,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-0000932E,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_2,21167,24925,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-0000931A,NAA,NAA3.2
+targeted-panel,DC2_BG1_Olink_2,21490,25112,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,alpha,True,pre-colo,SD-0000933D,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_2,21725,25161,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,alpha,True,pre-colo,SD-00009328,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_2,22290,25299,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,alpha,True,pre-colo,SD-0000930C,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_2,21319,25061,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-000092F6,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_2,19733,24068,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,alpha,True,pre-colo,SD-0000933C,AA,AA2.4
+targeted-panel,DC2_BG1_Olink_3,23835,26255,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-00009359,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_3,21424,25100,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,alpha,True,pre-colo,SD-00009355,Negative by histopathology,AA2.4
+targeted-panel,DC2_BG1_Olink_3,23176,25915,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-00009354,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_3,24002,26314,Pre-Colonoscopy,Unclassifiable,DC2 BG1,alpha,True,pre-colo,SD-00009392,unknown,unknown
+targeted-panel,DC2_BG1_Olink_3,20023,24287,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,alpha,True,pre-colo,SD-00009367,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_3,22234,25248,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,alpha,True,pre-colo,SD-0000934F,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_3,20669,24606,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,alpha,True,pre-colo,SD-00009371,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_3,23156,25880,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,alpha,True,pre-colo,SD-00009375,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_5,27627,26540,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-00009712,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,27332,26528,Pre-Colonoscopy,Colorectal Benign,DC2 BG2,delta,True,pre-colo,SD-0000971D,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_1,22243,25258,Pre-Colonoscopy,Colorectal Benign,DC2 BG2,delta,True,pre-colo,SD-000095F8,NAA,NAA3.1
+targeted-panel,DC2_BG2_Olink_1,23733,26162,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,delta,True,pre-colo,SD-00009602,AA,AA2.2
+targeted-panel,DC2_BG2_Olink_1,22237,25251,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-00009625,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_1,26961,26521,Pre-Colonoscopy,Colorectal Benign,DC2 BG2,delta,True,pre-colo,SD-000095F6,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_1,23216,25916,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-000095E3,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_1,27562,26546,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-00009613,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_2,29324,26825,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-00009641,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,23194,25907,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-0000973A,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,20400,24440,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-0000972F,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,28253,26566,Pre-Colonoscopy,Colorectal Benign,DC2 BG2,delta,True,pre-colo,SD-0000974C,NAA,NAA3.1
+targeted-panel,DC2_BG2_Olink_2,28120,26563,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-0000962D,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_2,24157,26424,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,delta,True,pre-colo,SD-0000966E,AA,AA2.4
+targeted-panel,DC2_BG2_Olink_2,22879,25717,Pre-Colonoscopy,Colorectal Benign,DC2 BG2,delta,True,pre-colo,SD-0000964F,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_2,22080,25347,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-00009646,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,28137,26561,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,delta,True,pre-colo,SD-00009736,AA,NAA3.1
+targeted-panel,DC2_BG2_Olink_2,24112,26390,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-00009656,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,23496,26047,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-00009733,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,25010,26469,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-0000973B,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,20250,24393,Pre-Colonoscopy,Colorectal Benign,DC2 BG2,delta,True,pre-colo,SD-0000967A,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_3,27273,26525,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-000096A7,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,23919,26277,Pre-Colonoscopy,Colorectal Benign,DC2 BG2,delta,True,pre-colo,SD-000096A0,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_3,22392,25385,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,delta,True,pre-colo,SD-0000968B,AA,AA2.4
+targeted-panel,DC2_BG2_Olink_3,24167,26432,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-0000969F,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_3,23942,26288,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,delta,True,pre-colo,SD-0000968F,AA,AA2.3
+targeted-panel,DC2_BG2_Olink_3,30713,26864,Pre-Colonoscopy,Colorectal Benign,DC2 BG2,delta,True,pre-colo,SD-000096A3,NAA,NAA3.3
+targeted-panel,DC2_BG2_Olink_4,29769,26833,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-000096EF,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_4,20683,24599,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-000096E0,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG2_Olink_5,22573,25485,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG2,delta,True,pre-colo,SD-00009723,AA,AA2.3
+targeted-panel,DC2_BG2_Olink_4,22707,25562,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG2,delta,True,pre-colo,SD-000096FB,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_7,20430,24468,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,gamma,True,pre-colo,SD-000094D1,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_7,21108,24995,Pre-Colonoscopy,Unclassifiable,DC2 BG1,gamma,True,pre-colo,SD-000094DB,unknown,unknown
+targeted-panel,DC2_BG1_Olink_7,22221,25245,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,gamma,True,pre-colo,SD-000094ED,NAA,AA2.3
+targeted-panel,DC2_BG1_Olink_7,23834,26254,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-000094C3,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_7,22841,25685,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-000094BB,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_7,19728,24045,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,gamma,True,pre-colo,SD-000094C2,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_7,21663,25146,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,gamma,True,pre-colo,SD-000094E8,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_7,20688,24608,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,gamma,True,pre-colo,SD-000094A0,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_7,22900,25722,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,gamma,True,pre-colo,SD-000094CB,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_8,24080,26366,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,gamma,True,pre-colo,SD-00009523,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_8,25322,26471,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-0000950E,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_8,20672,24582,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-0000953C,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_8,24118,26410,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-000094FB,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_8,20971,24919,Pre-Colonoscopy,Unclassifiable,DC2 BG1,gamma,True,pre-colo,SD-00009546,unknown,AA2.2
+targeted-panel,DC2_BG1_Olink_8,20550,24481,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,gamma,True,pre-colo,SD-00009533,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_8,21662,25145,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-00009527,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_8,22708,25567,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-000094FE,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_8,22920,25737,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,gamma,True,pre-colo,SD-00009532,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_9,23127,25869,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-00009590,AA,AA2.2
+targeted-panel,DC2_BG1_Olink_9,23853,26275,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,gamma,True,pre-colo,SD-00009557,NAA,AA2.3
+targeted-panel,DC2_BG1_Olink_9,20667,24580,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-00009554,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_9,22463,25487,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,gamma,True,pre-colo,SD-0000957A,Negative by histopathology,unknown
+targeted-panel,DC2_BG1_Olink_9,23377,25970,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,gamma,True,pre-colo,SD-00009586,NAA,NAA3.3
+targeted-panel,DC2_BG1_Olink_9,21094,24922,Pre-Colonoscopy,Colorectal Normal / Healthy,DC2 BG1,gamma,True,pre-colo,SD-00009584,Negative by colonoscopy (no histopathology),unknown
+targeted-panel,DC2_BG1_Olink_9,22790,25642,Pre-Colonoscopy,Colorectal Pre-Cancer,DC2 BG1,gamma,True,pre-colo,SD-0000958C,AA,AA2.3
+targeted-panel,DC2_BG1_Olink_9,20981,24957,Pre-Colonoscopy,Colorectal Benign,DC2 BG1,gamma,True,pre-colo,SD-00009579,NAA,NAA3.2
